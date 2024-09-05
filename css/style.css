@@ -1,0 +1,77 @@
+.header{
+    
+    background-color: red;
+}
+.box{
+    height: 100px;
+
+}
+.wrapper{
+    overflow: hidden;
+}
+.item{
+    float: left;
+    width: 25%;
+    height: 100px;
+}
+    
+.purple{
+    background-color: purple;
+}
+.green{
+    background-color: green;
+}
+.aqua{
+    background-color: aqua;
+}
+.yellow{
+    background-color: yellow;
+}
+.footer{
+    background-color:black;
+}
+.item2{
+   float: left;
+   width: 20%;
+   height: 100px;
+}
+.red{
+    background-color: red;
+}
+.black{
+    background-color: black;
+}
+.brown{
+    background-color: brown;
+}
+.blue{
+    background-color: blue;
+}
+.greenyellow{
+    background-color: greenyellow;
+}
+.item3{
+    float: left;
+    width: 16.66%;
+    height: 100px;
+
+}
+.aquamarine{
+    background-color: aquamarine;
+}
+.blueviolet{
+    background-color: rgb(37, 4, 68);
+}
+.bisque{
+    background-color: rgb(150, 92, 21);
+}
+.color{
+    background-color: rgb(28, 80, 63);
+
+}
+.color2{
+    background-color: rgb(34, 139, 139);
+}
+.color3{
+    background-color: rgb(184, 184, 27);
+}
